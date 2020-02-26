@@ -1,1 +1,1 @@
-Some project from the university.
+Some projects from the university.
