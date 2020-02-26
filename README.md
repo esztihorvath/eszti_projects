@@ -1,1 +1,1 @@
-# eszti_projects
+Some project from the university.
